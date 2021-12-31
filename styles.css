@@ -1,0 +1,13 @@
+.block {
+  background: rgb(7, 175, 175);
+  color: beige;
+  display: inline;
+}
+.inline {
+  background: rgba(7, 238, 122, 1);
+  color: rgba(243, 0, 150, 1);
+  display: block;
+}
+ul li {
+  list-style-type: circle;
+}
